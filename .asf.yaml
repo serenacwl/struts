@@ -10,7 +10,6 @@ notifications:
   # Link opened PRs with JIRA
   jira_options: link label worklog
 
-#test merge conflict
 github:
   del_branch_on_merge: true
   protected_branches:
